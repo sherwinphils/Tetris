@@ -1,0 +1,7 @@
+C:\Users\Sherwin\source\repos\MyTetris\MyTetris\bin\Debug\MyTetris.exe.config
+C:\Users\Sherwin\source\repos\MyTetris\MyTetris\bin\Debug\MyTetris.exe
+C:\Users\Sherwin\source\repos\MyTetris\MyTetris\bin\Debug\MyTetris.pdb
+C:\Users\Sherwin\source\repos\MyTetris\MyTetris\obj\Debug\MyTetris.csprojAssemblyReference.cache
+C:\Users\Sherwin\source\repos\MyTetris\MyTetris\obj\Debug\MyTetris.csproj.CoreCompileInputs.cache
+C:\Users\Sherwin\source\repos\MyTetris\MyTetris\obj\Debug\MyTetris.exe
+C:\Users\Sherwin\source\repos\MyTetris\MyTetris\obj\Debug\MyTetris.pdb
