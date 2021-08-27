@@ -1,2 +1,2 @@
-# MyTetris
+# Tetris
  
