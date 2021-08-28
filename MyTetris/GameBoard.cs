@@ -39,7 +39,7 @@ namespace MyTetris
             
             brick.RotateRight();
             //brick.RotateRight();
-            Draw(0, 0, brick);
+            Draw(0, 5, brick);
         }
 
         private void Draw(int xBrick, int yBrick, Brick brick)

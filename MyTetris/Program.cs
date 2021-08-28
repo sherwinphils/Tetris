@@ -12,7 +12,7 @@ namespace MyTetris
     {
         static void Main(string[] args)
         {
-            var board = new GameBoard(width: 10, height: 6);
+            var board = new GameBoard(width: 10, height: 10);
             board.DrawFrame();
             board.Play();
 
