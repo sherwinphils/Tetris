@@ -43,6 +43,9 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Brick.cs" />
+    <Compile Include="BrickType.cs" />
+    <Compile Include="GameBoard.cs" />
     <Compile Include="KeyboardHandler.cs" />
     <Compile Include="Tetromino.cs" />
     <Compile Include="TetrominoType.cs" />
